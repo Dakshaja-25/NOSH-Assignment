@@ -1,0 +1,9 @@
+../Core/Src/main.c:62:5:TimerOverflow	1
+../Core/Src/main.c:68:6:StartTimer	1
+../Core/Src/main.c:74:6:StopTimer	1
+../Core/Src/main.c:85:5:main	12
+../Core/Src/main.c:195:6:SystemClock_Config	3
+../Core/Src/main.c:236:13:MX_TIM1_Init	4
+../Core/Src/main.c:283:13:MX_USART2_UART_Init	5
+../Core/Src/main.c:331:13:MX_GPIO_Init	1
+../Core/Src/main.c:372:6:Error_Handler	1
